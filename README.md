@@ -1,2 +1,2 @@
 # Testrepo
-La ciendia de datos ayuda a tomar decisiones estrategicas y correctas.
+La ciencia de datos ayuda a tomar decisiones estrategicas y correctas.
